@@ -1,0 +1,6 @@
+/* your styles for position-practice.html here */
+.blue {
+  position:relative;
+  top:2rem;
+  left:2rem;
+}
