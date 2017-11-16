@@ -6,72 +6,43 @@ table {
 th,td {
     text-align: center;
 }
+
 th,td {
   border-bottom:  groove;
 }
+
 td {
     padding: 1em 1em;
     vertical-align: top;
-
 }
+
 body {
     background-color: antiquewhite;
-  font-family: 'Tangerine', serif;
+  font-family: 'Rancho', cursive, serif;
         font-size: 48px;
   text-shadow: 4px 4px 4px #aaa;
 }
+
 h1 {
-  font-family: 'Tangerine', serif;
+  font-family: 'Shrikhand', cursive, serif;;
+  
     text-shadow: 2px 2px red;
-    text-align: center;
+    text-align: left;
 }
+
 h2 {
-  font-family: 'Tangerine', serif;
+  font-family: 'Expletus Sans', cursive, serif;;
     color: green;
-    text-align: center;
+    text-align: left;
 }
+
 p {
-    font-family: 'Tangerine', serif;
-    font-size: 20px;
+     font-family: 'Rancho', cursive, serif;
+    font-size: 1em;
     text-align: left;
     color: darkblue;
+    margin:0 5em 0 1em;
 }
-a {
-    color: purple;
-}
-img:hover {
-    opacity: 1.0;
-}
-
-.active {
-    background-color: #4CAF50;
-    color: white;
-}
-.menu {
-    overflow: hidden;
-    background-color: #333;
-}
-
-/* Navbar links */
-.menu a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-/* Links - change color on hover */
-.topnav a:hover {
-    background-color: #ddd;
-    color: black;
-} 
-
-footer{
-  font-family: 'Tangerine', serif;
-}
-
-.class="fa fa-picture-o" {
-  style=float:right;
+nav {
+  background-color: rgb(97, 125, 209);
 }
